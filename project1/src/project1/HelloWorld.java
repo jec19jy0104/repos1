@@ -5,6 +5,7 @@ public class HelloWorld {
 		System.out.println("HelloWorld");
 		System.out.println("Java");
 		System.out.println("HTML5");
-		System.out.println("");
+		System.out.println("SQL");
+		System.out.println("Software");
 	}
 }
